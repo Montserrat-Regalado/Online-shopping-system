@@ -1,0 +1,15 @@
+[
+    {
+        "id": "f04ca882-a940-4347-bacf-cedca291c8ae",
+        "name": "televisor 40",
+        "group": "Electronica ",
+        "subgroup": "televisores"
+    },
+    {
+        "id": "875bb689-2ef2-4674-bce7-b17f69e08df7",
+        "name": "televisor 41' ",
+        "group": "Electronica ",
+        "subgroup": "televisores",
+        "precio": 4000
+    }
+]
